@@ -1,1 +1,3 @@
-license license lincense
+license license license
+Git is a distributed version control system
+Git tracks changes
